@@ -36,8 +36,8 @@ A Full-Stack web app for learning Arabic, built with Node.js and PostgreSQL. Cov
 
 ### 📊 GitHub Stats
 
-![Owais's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
+![Owais's GitHub stats](https://github-readme-stats.vercel.app/api?username=owamus&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=owamus&layout=compact)
 
 ---
 
