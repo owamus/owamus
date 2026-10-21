@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Owais 👋😺</h1>
 
 <p align="center">
-  First-year Computer Science student at the University of Manchester
+   Second-year Computer Science student at the University of Manchester
 </p>
 
 ---
@@ -9,7 +9,7 @@
 ### 🎯 About Me
 
 - 🎓 Studying Computer Science at the University of Manchester
-- 📫 Reach me at: [owais.mustafa.mcr@gmail.com] · [LinkedIn](https://linkedin.com/in/owais-mustafa)
+- 📫 Reach me at: [owais.mustafa.mcr@gmail.com](owais.mustafa.mcr@gmail.com) · [LinkedIn](https://linkedin.com/in/owais-mustafa)
 
 ---
 
