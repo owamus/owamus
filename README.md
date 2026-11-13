@@ -16,6 +16,7 @@
 ### 🛠️ Featured Projects
 
 **[JumlaLearn](https://github.com/owamus/Arabic-Learning-Project)**
+**[Live Site](https://jumlalearn.onrender.com/index.html)**
 learn Arabic by building sentences. You’re given an English sentence and a word bank, and you assemble the Arabic translation word by word. Full-stack web app (Node.js, PostgreSQL). 
 `Node.js` `JavaScript` `PostgreSQL`
 
